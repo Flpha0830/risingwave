@@ -187,6 +187,10 @@ export default function Layout({ children }) {
               text='streaming'
               icon={<DoubleArrowIcon fontSize="small" />}
             />
+            <NavBarItem
+              text='explain'
+              icon={<DoubleArrowIcon fontSize="small" />}
+            />
           </List>
           <Divider />
           <List>
